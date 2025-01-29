@@ -36,7 +36,7 @@ My Command Line Shell is: PowerShell
 1. Create a directory named `DirA`: mkdir DirA
 2. Create a directory named `Dir B`: mkdir DirB
 3. Go into `DirA`: cd DirA
-4. Go into `Dir B` from `DirA`: cd ..
+4. Go into `Dir B` from `DirA`: cd ..    ;
                                 cd DirB
 5. Return to your user's home directory: cd ~
 6. Create a file named `test.txt`: New-Item test.txt
